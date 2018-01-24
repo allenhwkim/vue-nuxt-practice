@@ -1,9 +1,9 @@
 <template>
   <section class="section is-medium">
     <div class="container has-text-centered">
-      <h1 class="title">Contact Me</h1>
+      <h1 class="title">{{ $t('contact.title') }}</h1>
       <p>
-        You can follow me on Twitter: <a href="https://twitter.com/allenhwkim" target="_blank">@allenhwkim</a>
+        {{ $t('contact.introduction') }}
       </p>
     </div>
   </section>

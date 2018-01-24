@@ -1,0 +1,23 @@
+{
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Hi, I'm Allen Kim",
+    "subtitle": "A software engineer in Canada."
+  },
+  "about": {
+    "title": "About Me"
+  },
+  "projects": {
+    "title": "My Projects",
+    "introduction": "Some of my projects can be found on <a href='https://github.com/allenhwkim' target='_blank'>GitHub</a>."
+  },
+  "contact": {
+    "title": "Contact Me",
+    "introduction": "You can follow me on Twitter: <a href='https://twitter.com/allenhwkim' target='_blank'>@allenhwkim</a>"
+  }
+}

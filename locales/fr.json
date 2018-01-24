@@ -1,0 +1,23 @@
+{
+  "links": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contactez"
+  },
+  "home": {
+    "title": "Salut, je suis Allen Kim",
+    "sub-title": "Un ingénieur logiciel au Canada."
+  },
+  "about": {
+    "title": "À propos de moi"
+  },
+  "projects": {
+    "title": "Mes projets",
+    "introduction": "Certains de mes projets peuvent être trouvés sur <a href='https://github.com/allenhwkim' target='_blank'>GitHub</a>."
+  },
+  "contact": {
+    "title": "Contactez Moi",
+    "introduction": "Vous pouvez me suivre sur Twitter: <a href='https://twitter.com/allenhwkim' target='_blank'>@allenhwkim</a>"
+  }
+}
